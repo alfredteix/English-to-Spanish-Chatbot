@@ -1,6 +1,6 @@
 import requests
 
-API_Key = "99bb21507ae4c2fe3ae8a8c4ab11aa572ca93e3fcdf62282793913286d0f864e"
+API_Key = "Your_API_KEY"
 TOGETHER_AI = "https://api.together.xyz/v1/chat/completions"
 
 
